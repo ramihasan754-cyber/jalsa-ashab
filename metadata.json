@@ -1,0 +1,7 @@
+{
+  "name": "جلسة أصحاب",
+  "description": "لعبة جلسات وتجمعات للأصحاب بالأدوار السرية والتصويت والتمثيل: مين أكتر واحد، لو خيروك، تحديات وأحكام، صراحة، برا السالفة، الجاسوس، ولعبة ولا كلمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
