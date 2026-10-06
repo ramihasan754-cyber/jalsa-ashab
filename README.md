@@ -2,9 +2,9 @@
 
 # 📱 تطبيق جلسة أصحاب
 
-[![Download APK](https://img.shields.io/badge/تحميل_تطبيق_جلسة_أصحاب-APK_(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ramihasan754-cyber/jalsa-ashab/releases/download/v1.0.0/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download_APK-v1.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ramihasan754-cyber/jalsa-ashab/releases/download/v1.0.0/app-debug.apk)
 
-[![Latest Release](https://img.shields.io/badge/الإصدار-v1.0.0-blue?style=flat-square)](https://github.com/ramihasan754-cyber/jalsa-ashab/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square)](https://github.com/ramihasan754-cyber/jalsa-ashab/releases/latest)
 
 </div>
 
